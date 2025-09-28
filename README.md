@@ -148,7 +148,7 @@ RandomForestClassifier(
 ## 📈 Results
 
 - **Test F1-macro Score**: 0.4359
-- **Public Leaderboard**: **Rank 1st with 0.447021 RMSE**
+- **Public Leaderboard**: **Rank 1st with 0.447021 F1_Macro**
 - **Model Performance**: Robust handling of imbalanced classes with `class_weight='balanced'`
 
 ## 🛠️ Technical Implementation
